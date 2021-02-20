@@ -1,1 +1,1 @@
-# i-am-poor-ios-app
+# A new Swift Application for study
